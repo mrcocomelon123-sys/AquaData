@@ -1,4 +1,6 @@
 {
-    "projects": [],
+    "projects": [
+        "test"
+    ],
     "licenses": {}
 }
